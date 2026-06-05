@@ -1,12 +1,16 @@
 # Hi there! 🐾✨
 
-> *"Hello, world. Escrevendo código limpo e protegendo o espaço digital."*
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF9EBB&center=false&vCenter=true&width=450&lines=Hello%2C+world!+%F0%9F%90%BE;Estudante+de+Ciberseguran%C3%A7a;Protegendo+o+espa%C3%A7o+digital..." alt="Typing SVG" /></a>
+</p>
 
 *   🎓 **Foco:** Estudante de Cibersegurança
 *   💻 **Tech Stack:** Python, Java, JavaScript, HTML & CSS
 *   🌱 **Estudando:** Fundamentos de segurança da informação e explorando o ecossistema de C#
-*   🚀 **Objetivo atual:** Expandir minha base técnica para construir e proteger aplicações no futuro
-*   🌐 **Contato:** [www.linkedin.com/in/maria-carolina-lins]
+*   🌐 **Contato:** www.linkedin.com/in/maria-carolina-lins
+
+<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlhYTQ5YTUzYTkyYTAxNWQ4MmU5YTgzMzU5MmNiYTQ1ZjU1Mjc5ZCZjdD1z/kI34T6P7d8z44W1hNn/giphy.gif" width="35px" /> *Code & Security*
 
 ---
 
