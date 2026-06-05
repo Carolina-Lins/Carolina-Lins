@@ -6,7 +6,7 @@
 *   💻 **Tech Stack:** Python, Java, JavaScript, HTML & CSS
 *   🌱 **Estudando:** Fundamentos de segurança da informação e explorando o ecossistema de C#
 *   🚀 **Objetivo atual:** Expandir minha base técnica para construir e proteger aplicações no futuro
-*   🌐 **Contato:** [Seu LinkedIn, Portfólio ou Email]
+*   🌐 **Contato:** [www.linkedin.com/in/maria-carolina-lins]
 
 ---
 
