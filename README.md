@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXZpd2Ezbm1uc2tjM2FxZDFpcmpkZnI2bmJqbTBzNzRnbHMxNTJzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPlCroSFHV8uoko/giphy.gif" width="100%" height="100px" style="object-fit: cover;" />
 </p>
 
-> *[SYSTEM LOG]: Booting profile: Carolina-Lins... Status: Online. 🦾*
-
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF007F&multiline=true&center=false&vCenter=true&width=500&height=100&lines=Welcome+to+my+stack...;Estudante+de+Ciberseguran%C3%A7a;Escrevendo+c%C3%B3digo...;Protegendo+o+espa%C3%A7o+digital..." alt="Typing SVG" /></a>
 </p>
